@@ -1,0 +1,6 @@
+venv
+pickles
+.idea
+*.xml
+*.wav
+data
