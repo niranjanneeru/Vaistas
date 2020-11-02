@@ -61,14 +61,13 @@ It gives you suggestions based on what you just updated
 |Upload data to server | store.py|
 |Eye Blinking and Emotion Running in Threads|thread.py|
 
-## Graph Plotting
+## Backend
 
-### Line plot
-
-Line graphs are plotted using matplotlib module
-According to heartbeat range are produced
+<img src="https://github.com/niranjanneeru/Vaistas/blob/master/Screenshot%20(328).png?raw=true" width = 1000px heigth = 1400px>
+<img src="https://github.com/niranjanneeru/Vaistas/blob/master/Screenshot%20(329).png?raw=true" width = 1000px heigth = 1400px>
 
 ---
+
 ## Future Implementation
 
 <ul>
