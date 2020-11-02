@@ -51,7 +51,7 @@ It gives you suggestions based on what you just updated
 |--------|------
 |PyQt App Running File |      main.py|
 |User Interface Design |      DSD.ui|
-|data | [train and test data for emotion](https://drive.google.com/file/d/1X60B-uR3NtqPd4oosdotpbDgy8KOfUdr/view)|
+|Data | [train and test data for emotion](https://drive.google.com/file/d/1X60B-uR3NtqPd4oosdotpbDgy8KOfUdr/view)|
 | Speech Rate |audio-speech.py|
 |For Calculating Speech Rate|speech.wav|
 |User Credentials Storing|cred.py|
@@ -96,6 +96,7 @@ According to heartbeat range are produced
 
 ## References
 
-> https://people.csail.mit.edu/mrub/evm/
-> Haar Cascade Classifier
+> https://people.csail.mit.edu/mrub/evm/ <br>
+> Haar Cascade Classifier<br>
+> 5282a81a6b13b952acc5bd2d8971716096c2f2f5<br>
 > Google Speech Recognition Python Library
