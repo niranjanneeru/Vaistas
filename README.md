@@ -89,7 +89,8 @@ It gives you suggestions based on what you just updated
     <td align="center"><a href="https://github.com/CodeitM"><img src="https://avatars0.githubusercontent.com/u/70884500?s=460&u=a96cd01a2af6224e933837d9deab4ae71abe130b&v=4" width="233px;" alt=""/><br /><sub><b>Mili Murali(CodeitM)</b></sub></a><br /><a href="https://github.com/Niranjanprof/Corvid-19-Tracker/commits?author=CodeitM" title="Code">💻</a> <a href="https://github.com/Niranjanprof/Corvid-19-Tracker/commits?author=CodeitM" title="Documentation">📖</a></td>
   <td align="center"><a href="https://github.com/Sinadin-Shibin"><img src="https://avatars3.githubusercontent.com/u/59430074?s=400&v=4" width="233px;" alt=""/><br /><sub><b>Sinadin Shibin (Skeptic)</b></sub></a><br /><a href="https://github.com/Sinadin-Shibin" title="Code">💻</a></td>
   </tr>
-
+<td align="center"><a href="https://github.com/laveena01"><img src="https://avatars3.githubusercontent.com/u/63572839?s=460&v=4" width="233px;" alt=""/><br /><sub><b>Laveena Herman (laveena01)</b></sub></a><br /><a href="https://github.com/laveena01" title="Code">💻</a></td>
+  </tr>
 </table>
 
 ---
