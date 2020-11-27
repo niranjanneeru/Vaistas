@@ -81,17 +81,16 @@ It gives you suggestions based on what you just updated
 ## Contributors
 
 
+
+
 <table>
   <tr>
-    1. Emil<br>
-    2. Mili<br>
-    3. Laveena<br>
-    4. Niranjan<br>
-    5. Shibin<br>
-    </tr>
+    <td align="center"><a href="https://github.com/niranjanneeru"><img src="https://avatars1.githubusercontent.com/u/48713926?s=400&u=a473cb9bbbc98506ae6b55ccd2b45cfdc941d517&v=4" width="233px;" alt=""/><br /><sub><b>Niranjan B(Neeru)</b></sub></a><br /><a href="https://github.com/niranjanneeru/Corvid-19-Tracker/commits?author=niranjanneeru" title="Code">💻</a> <a href="https://github.com/niranjanneeru/Corvid-19-Tracker/commits?author=niranjanneeru" title="Documentation">📖</a> <a href="#maintenance-niranjanneeru" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/CodeitM"><img src="https://avatars0.githubusercontent.com/u/70884500?s=460&u=a96cd01a2af6224e933837d9deab4ae71abe130b&v=4" width="233px;" alt=""/><br /><sub><b>Mili Murali(CodeitM)</b></sub></a><br /><a href="https://github.com/Niranjanprof/Corvid-19-Tracker/commits?author=CodeitM" title="Code">💻</a> <a href="https://github.com/Niranjanprof/Corvid-19-Tracker/commits?author=CodeitM" title="Documentation">📖</a></td>
+  <td align="center"><a href="https://github.com/Sinadin-Shibin"><img src="https://avatars3.githubusercontent.com/u/59430074?s=400&v=4" width="233px;" alt=""/><br /><sub><b>Sinadin Shibin (Skeptic)</b></sub></a><br /><a href="https://github.com/Sinadin-Shibin" title="Code">💻</a></td>
+  </tr>
 
 </table>
-
 ---
 
 ## References
